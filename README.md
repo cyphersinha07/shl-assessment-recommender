@@ -1,4 +1,12 @@
-# Conversational SHL Assessment Recommender
+---
+title: SHL Assessment Recommender
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 8000
+pinned: false
+---# Conversational SHL Assessment Recommender
 
 A production-ready, stateless conversational agent that guides recruiters and hiring managers from a vague hiring intent (e.g., "I'm hiring a Java developer") to a structured, grounded shortlist of **SHL Individual Test Solutions** through dynamic, natural dialogue.
 
