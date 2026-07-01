@@ -1,0 +1,8 @@
+{
+  "name": "SHL Assessment Recommender",
+  "description": "Stateless conversational assistant that guides recruiters from role requirements to grounded SHL individual test shortlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

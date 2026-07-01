@@ -1,0 +1,138 @@
+[
+  {
+    "id": "opq32",
+    "name": "Occupational Personality Questionnaire (OPQ32)",
+    "url": "https://www.shl.com/solutions/products/occupational-personality-questionnaire/",
+    "test_type": "P",
+    "description": "The Occupational Personality Questionnaire (OPQ32) is the premier global assessment of workplace personality and behavioral style. It measures 32 key personality traits grouped into three major areas: Relationship with People, Thinking Style, and Feelings and Emotions. It provides deep insights into how candidates behave, work in teams, lead others, and handle pressure.",
+    "keywords": ["personality", "behavior", "traits", "workplace style", "leadership", "relationships", "teamwork", "emotions", "soft skills", "collaboration"]
+  },
+  {
+    "id": "opq32r",
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/opq32r/",
+    "test_type": "P",
+    "description": "An adaptive, shorter version of the standard Occupational Personality Questionnaire (OPQ32). It uses Item Response Theory (IRT) to dynamically adjust questions to the candidate's level, measuring the same 32 personality dimensions as the standard OPQ but in half the time. Excellent for rapid, high-accuracy leadership, managerial, and professional assessments.",
+    "keywords": ["personality", "behavior", "adaptive", "traits", "shorter opq", "work style", "professionalism"]
+  },
+  {
+    "id": "verify_g_plus",
+    "name": "Verify G+ (General Ability)",
+    "url": "https://www.shl.com/solutions/products/verify-gplus-general-ability-test/",
+    "test_type": "K",
+    "description": "Verify G+ measures general cognitive ability by combining Numerical Reasoning, Deductive Reasoning, and Inductive Reasoning into a single, highly efficient assessment. It evaluates overall mental agility, problem-solving skills, and abstract conceptual reasoning. It is ideal for roles requiring high cognitive load, complex analytical thinking, and learning speed.",
+    "keywords": ["cognitive ability", "general ability", "numerical reasoning", "deductive", "inductive", "mental agility", "problem solving", "analytical", "g+"]
+  },
+  {
+    "id": "verify_numerical_reasoning",
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-numerical-reasoning-test/",
+    "test_type": "K",
+    "description": "Measures a candidate's ability to analyze, interpret, and draw logical conclusions from business-related numerical data, charts, graphs, and tables. It assesses quantitative problem-solving and critical thinking under pressure. Crucial for finance, consulting, banking, engineering, and data-heavy roles.",
+    "keywords": ["numerical reasoning", "math", "charts", "graphs", "statistics", "data analysis", "finance", "quantitative", "analyst"]
+  },
+  {
+    "id": "verify_verbal_reasoning",
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-verbal-reasoning-test/",
+    "test_type": "K",
+    "description": "Measures the ability to evaluate written reports, comprehend complex passages, and extract logical, factual conclusions from text arguments. It is designed to evaluate written communication analysis and critical verbal comprehension. Essential for managers, administrative professionals, legal teams, and customer service leads.",
+    "keywords": ["verbal reasoning", "reading comprehension", "text analysis", "written communication", "critical thinking", "vocabulary", "english"]
+  },
+  {
+    "id": "verify_deductive_reasoning",
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-deductive-reasoning-test/",
+    "test_type": "K",
+    "description": "Evaluates a candidate's ability to solve complex logical problems, identify arguments, and draw necessary conclusions based on structured rules, constraints, or scenarios. Excellent for technical roles, software developers, engineering, operations managers, and systems analysts.",
+    "keywords": ["deductive reasoning", "logic", "rules", "constraints", "troubleshooting", "coding", "software engineering", "puzzles"]
+  },
+  {
+    "id": "verify_inductive_reasoning",
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-inductive-reasoning-test/",
+    "test_type": "K",
+    "description": "Measures abstract conceptual problem-solving by evaluating the ability to identify patterns, relationships, and hidden rules from sequences of shapes and diagrams. Ideal for creative problem solvers, design engineers, research roles, strategic planners, and developers.",
+    "keywords": ["inductive reasoning", "patterns", "abstract thinking", "shapes", "diagrams", "rule identification", "creative problem solving"]
+  },
+  {
+    "id": "verify_spatial_ability",
+    "name": "Verify Spatial Ability",
+    "url": "https://www.shl.com/solutions/products/verify-spatial-ability-test/",
+    "test_type": "K",
+    "description": "Assesses visual-spatial thinking and spatial orientation. It measures the candidate's ability to mentally manipulate, rotate, and assemble 2D and 3D shapes. Vital for architects, design engineers, manufacturing operators, and technical trades.",
+    "keywords": ["spatial ability", "3D rotation", "visual-spatial", "shapes", "geometry", "architecture", "engineering design"]
+  },
+  {
+    "id": "verify_mechanical_comprehension",
+    "name": "Verify Mechanical Comprehension",
+    "url": "https://www.shl.com/solutions/products/verify-mechanical-comprehension-test/",
+    "test_type": "K",
+    "description": "Measures understanding of physical, mechanical, and structural principles, including gears, pulleys, levers, fluid dynamics, and electrical circuits. Crucial for mechanical engineers, maintenance technicians, production specialists, and aviation staff.",
+    "keywords": ["mechanical comprehension", "physics", "pulleys", "gears", "levers", "circuits", "engineering", "technician", "physical principles"]
+  },
+  {
+    "id": "verify_calculation",
+    "name": "Verify Calculation",
+    "url": "https://www.shl.com/solutions/products/verify-calculation-test/",
+    "test_type": "K",
+    "description": "Evaluates a candidate's speed and accuracy in performing direct mathematical calculations, including addition, subtraction, multiplication, division, and fractions. Important for accounting support, retail bank tellers, cashiers, and inventory clerks.",
+    "keywords": ["calculation", "arithmetic", "computation", "math speed", "accuracy", "numbers", "teller", "clerk"]
+  },
+  {
+    "id": "verify_checking",
+    "name": "Verify Checking",
+    "url": "https://www.shl.com/solutions/products/verify-checking-test/",
+    "test_type": "K",
+    "description": "Measures speed and accuracy in identifying errors, matching details, and comparing list items like names, addresses, or serial codes. Essential for administrative assistants, data entry clerks, compliance officers, and quality control operators.",
+    "keywords": ["checking", "attention to detail", "clerical speed", "error detection", "accuracy", "administrative", "data entry"]
+  },
+  {
+    "id": "motivation_questionnaire",
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/motivation-questionnaire/",
+    "test_type": "P",
+    "description": "Measures 18 motivational factors that drive employee energy, commitment, and satisfaction in the workplace, such as autonomy, personal growth, material reward, recognition, power, and personal interest. Highly useful for retention, development, and high-performance team alignment.",
+    "keywords": ["motivation", "values", "work drive", "engagement", "retention", "employee satisfaction", "autonomy", "rewards"]
+  },
+  {
+    "id": "situational_judgment_test",
+    "name": "Situational Judgment Test (SJT)",
+    "url": "https://www.shl.com/solutions/products/situational-judgment/",
+    "test_type": "P",
+    "description": "Places candidates in simulated, realistic workplace scenarios and evaluates their judgment, decision-making, stakeholder communication, and professional conduct. Measures soft skills, prioritization, conflict resolution, and situational maturity. Highly effective for volume hiring in customer service, sales, and management.",
+    "keywords": ["situational judgment", "sjt", "scenarios", "decision making", "soft skills", "conflict resolution", "prioritization", "communication", "professionalism"]
+  },
+  {
+    "id": "verify_coding_skills",
+    "name": "Verify Coding Skills",
+    "url": "https://www.shl.com/solutions/products/coding-skills-test/",
+    "test_type": "K",
+    "description": "Evaluates fundamental and advanced software engineering skills, algorithm design, data structures, and debugging capabilities. Supports coding environments in Java, C++, Python, JavaScript, Ruby, and SQL. Standard assessment for software engineers and systems architects.",
+    "keywords": ["coding", "programming", "software engineering", "algorithms", "data structures", "debugging", "developer", "java", "python", "javascript", "c++"]
+  },
+  {
+    "id": "java_8_skills_test",
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/java-8-skills-test/",
+    "test_type": "K",
+    "description": "A focused coding skill assessment specifically measuring object-oriented design, syntax, and advanced features in Java 8+, such as streams, lambda expressions, concurrency, memory management, and library functions. Essential for back-end Java developers.",
+    "keywords": ["java", "java 8", "oop", "backend", "concurrency", "lambdas", "streams", "software engineer", "developer"]
+  },
+  {
+    "id": "sales_personality_questionnaire",
+    "name": "Sales Personality Questionnaire (SPQ)",
+    "url": "https://www.shl.com/solutions/products/sales-personality/",
+    "test_type": "P",
+    "description": "Specifically designed to assess personality traits and behavioral patterns linked to direct sales performance, business development, resilience under rejection, and customer closing techniques. Perfect for account executives, sales managers, and business development leads.",
+    "keywords": ["sales", "selling", "sales personality", "business development", "closing", "resilience", "persuasion"]
+  },
+  {
+    "id": "verify_language_proficiency",
+    "name": "Verify Language Proficiency",
+    "url": "https://www.shl.com/solutions/products/language-proficiency-test/",
+    "test_type": "K",
+    "description": "Measures written and spoken vocabulary, grammar, reading comprehension, and business writing clarity across various languages (English, Spanish, French, German, Mandarin). Standard for global call centers, customer support, translation, and localized corporate roles.",
+    "keywords": ["language", "proficiency", "speaking", "writing", "english", "grammar", "translation", "communication", "multilingual"]
+  }
+]
